@@ -1,4 +1,4 @@
-## Hi there 😎
+## Olá 👋
 
 Eu sou o Lucas Rios, sou um programador Full Stack, atualmente estou aprendendo e criando projetos com:
 <br>
