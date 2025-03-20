@@ -11,6 +11,5 @@ Eu sou o Lucas Rios, sou um programador Full Stack, atualmente estou aprendendo 
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasriosdev)](https://github.com/anuraghazra/github-readme-stats)
 
-![Lucas Rios' WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_WAKATIME)
 
 
