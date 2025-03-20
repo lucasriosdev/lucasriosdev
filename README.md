@@ -13,3 +13,4 @@ Eu sou o Lucas Rios, sou um programador Full Stack, atualmente estou aprendendo 
 
 
 
+![image](https://github.com/user-attachments/assets/716c0cb7-df5c-4f54-be8a-3eb85fd5136c)
