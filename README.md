@@ -47,7 +47,7 @@ Olá! Me chamo **Lucas Rios**, sou da Bahia e tenho 24 anos. Atualmente, estou c
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasriosdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+ <img src="https://github-readme-stats.vercel.app/api?username=lucasriosdev&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasriosdev&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas" />
 </div>
 
