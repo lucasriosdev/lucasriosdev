@@ -30,9 +30,13 @@ Olá! Me chamo **Lucas Rios**, sou da Bahia e tenho 24 anos. Atualmente, estou c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" title="mongodb" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" title="mysql" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" title="docker" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" title="node" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" title="Jira" width="45px"/>
 </div>
 
 ---
