@@ -6,7 +6,7 @@
 ## 🚀 Desenvolvedor de Software
 
 
-Olá! Me chamo Lucas Rios, sou de Feira de Santana na Bahia e tenho 24 anos. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Capim Grosso e **Dev Full Stack** pela DevClub e busco me tornar um desenvolvedor Full Stack. Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente o dia a dia das pessoas. Sempre aberto a novas oportunidades na área de tecnologia! 💡🔎 
+Olá! Me chamo Lucas Rios, sou de Várzea da Roça na Bahia e tenho 24 anos. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Capim Grosso e cursos intensivos para aprimoramento na aréa. E busco me tornar um desenvolvedor Full Stack. Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente o dia a dia das pessoas. Sempre aberto a novas oportunidades na área de tecnologia! 💡🔎 
 
 
 ---
