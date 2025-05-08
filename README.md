@@ -42,7 +42,7 @@ Olá! Me chamo Lucas Rios, sou de Várzea da Roça na Bahia e tenho 24 anos. Atu
 
 ## 📌 Projetos em Destaque Fixado
 
-* [Em breve...] Mais projetos a caminho!
+* Visite meus repositórios e conheça meus projetos!
 
 ---
 
