@@ -4,8 +4,6 @@
 
 # 🖥️ Lucas Rios
 ## 🚀 Desenvolvedor de Software & Automação
-## Atualmente atuando como Analista Pleno na Empresa Aliança Divergente do grupo Imperio 55.
-
 
 Olá! Me chamo Lucas Rios, sou do Interior Bahia e tenho 24 anos. Atualmente, sou formado em **Análise e Desenvolvimento de Sistemas** e Pós Graduado em **Engenharia de Software e Segurança da Informação**  e cursos intensivos para aprimoramento na aréa. Hoje tenho experiência em diversas tecnologias voltada para automação e banco de dados. Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente! 💡🔎 
 
