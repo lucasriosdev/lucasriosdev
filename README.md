@@ -34,6 +34,7 @@ Olá! Me chamo Lucas Rios, sou do Interior Bahia e tenho 24 anos. Atualmente, so
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" title="mysql" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" title="docker" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png" title="N8N" width="45px"/>
+  <img src="https://logowik.com/content/uploads/images/supabase-icon1721342077.logowik.com.webp" title="Supabase" width="45px"/>
 </div>
 
 ---
