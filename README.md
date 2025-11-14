@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 # 🖥️ Lucas Rios
-## 🚀 Desenvolvedor de Software
+## 🚀 Desenvolvedor de Software & Automação
+## Atualmente atuando como Analista Pleno na Empresa Aliança Divergente do grupo Imperio 55.
 
 
-Olá! Me chamo Lucas Rios, sou de Várzea da Roça na Bahia e tenho 24 anos. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Capim Grosso e cursos intensivos para aprimoramento na aréa. E busco me tornar um desenvolvedor Full Stack. Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente o dia a dia das pessoas. Sempre aberto a novas oportunidades na área de tecnologia! 💡🔎 
+Olá! Me chamo Lucas Rios, sou do Interior Bahia e tenho 24 anos. Atualmente, sou formado em **Análise e Desenvolvimento de Sistemas** e Pós Graduado em **Engenharia de Software e Segurança da Informação**  e cursos intensivos para aprimoramento na aréa. Hoje tenho experiência em diversas tecnologias voltada para automação e banco de dados. Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente! 💡🔎 
 
 
 ---
@@ -29,13 +30,10 @@ Olá! Me chamo Lucas Rios, sou de Várzea da Roça na Bahia e tenho 24 anos. Atu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="45px"/>
-  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" title="mongodb" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" title="mysql" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" title="docker" width="45px"/>
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" title="node" width="45px"/>
-  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" title="Jira" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png/?size=100&id=22813&format=png&color=000000" title="N8N" width="45px"/>
 </div>
 
 ---
